@@ -323,7 +323,7 @@
 					},
 					"SynapseWorkspaceName": {
 						"type": "string",
-						"defaultValue": "wilfamt5pdl5mn7epoc.dfs.core.windows.net"
+						"defaultValue": "wilfamt5pdl5mn7epocws1.database.windows.net"
 					},
 					"SQLDedicatedPoolName": {
 						"type": "string",
